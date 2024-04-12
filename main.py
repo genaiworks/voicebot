@@ -6,7 +6,7 @@ from io import BytesIO
 import os
 import openai
 
-openai.api_key="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"
+openai.api_key="sk-"
 
 message_array = [{'role': 'system', 'content': 'You are my boyfriend names Ali'}]
 
