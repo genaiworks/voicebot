@@ -1,0 +1,6 @@
+speechrecognition
+gtts
+playsound
+openai
+pygame
+PyAudio
